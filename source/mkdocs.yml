@@ -1,3 +1,11 @@
 site_name: aweSome mkdocs site
-site_theme: dracula
+theme: 
+  name: kpn
 site_author: Зекин Владлен (P3121, n3sostr3l)
+
+nav:
+  - Labs: 
+      Lab1: labwork1.md
+  - Home: main.md 
+  - About: about.md 
+
