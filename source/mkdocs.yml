@@ -6,6 +6,8 @@ site_author: Зекин Владлен (P3121, n3sostr3l)
 nav:
   - Labs: 
       Lab1: labwork1.md
+      Lab2: lab2.md
+      Lab3: lab3.md
   - Home: main.md 
   - About: about.md 
 
