@@ -112,7 +112,6 @@ URL сайта: https://my-kos.sourcecraft.site/lab3.
 Sourcecraft	https://my-kos.sourcecraft.site/lab3	https://git.sourcecraft.dev/my-kos/lab3
 GitHub	https://my-kos.github.io	https://github.com/my-kos/lab3
 ### 7. Дополнительные материалы
-Скриншоты настроек GitHub Pages и Sourcecraft прилагаются.
 
 Лог успешного выполнения GitHub Actions (пример):
 
@@ -121,7 +120,7 @@ Run peaceiris/actions-gh-pages@v3
 Deploying to gh-pages branch...
 Successfully deployed.
 ```
-Токен Sourcecraft: создан в Settings → Access Tokens с правами write.
+Токен Sourcecraft: создан в Settings -> Access Tokens с правами ```write```.
 
 ## Заключение
 Единый локальный репозиторий с двумя удалёнными (origin и sourcecraft) позволяет централизованно управлять исходным кодом MkDocs и автоматически публиковать статический сайт одновременно на GitHub Pages и Sourcecraft.
